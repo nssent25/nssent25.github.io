@@ -3,13 +3,13 @@ layout: home
 title: Nithun Selva
 ---
 
-# Welcome to My Portfolio
+# Nithun Selva
 
-I'm Nithun Selva, and this is my professional portfolio and resume site.
+Dedicated Computer Science and Mathematics student with experience in software development, machine learning, and astronomical data analysis. Looking to leverage technical skills and academic knowledge to contribute to innovative projects.
 
 ## About Me
 
-I'm a dedicated professional with expertise in various domains. You can learn more about my background, skills, and experiences through this website.
+I'm a student at Colby College pursuing degrees in Computer Science and Mathematics. My interests include software development, machine learning, and astronomical research. You can learn more about my background, skills, and experiences through this website.
 
 ## Resume
 
@@ -22,4 +22,8 @@ You can view or download my resume:
 
 ## Contact Me
 
-Feel free to reach out via email or connect with me on professional networks.
+Feel free to reach out via:
+- Phone: (207) 313-1250
+- Email: [nithun.selva@colby.edu](mailto:nithun.selva@colby.edu)
+- LinkedIn: [linkedin.com/in/nithunselva](http://linkedin.com/in/nithunselva)
+- GitHub: [github.com/nssent25](http://github.com/nssent25)

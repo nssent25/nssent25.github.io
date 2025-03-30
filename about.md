@@ -6,34 +6,39 @@ permalink: /about/
 
 # About Me
 
-I am Nithun Selva, a professional with a passion for [your field/interests]. My background includes experience in [brief overview of your experience].
-
-## Skills
-
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
+I am Nithun Selva, a student at Colby College pursuing a double major in Computer Science and Mathematics. I have a passion for software development, machine learning applications, and astronomical research, with experience in building innovative projects in these domains.
 
 ## Education
 
-- Degree, Institution, Year
-- Certification, Institution, Year
+- **Colby College**, Waterville, ME
+  - Bachelor of Arts in Computer Science and Mathematics (Expected May 2025)
+  - GPA: 3.9/4.0
+  - Relevant Coursework: Data Structures and Algorithms, Computer Systems, Numerical Analysis, Linear Algebra, Statistics
+
+## Skills
+
+- **Programming Languages**: Python, Java, C, C++, JavaScript, SQL, R
+- **Tools & Technologies**: TensorFlow, PyTorch, Git, Linux, Docker, AWS
+- **Web Development**: HTML/CSS, React, Node.js
+- **Data Science**: Machine Learning, Statistical Analysis, Data Visualization
+- **Other**: Technical Writing, Project Management, Team Leadership
 
 ## Professional Experience
 
-### Company Name (Year - Year)
-**Position Title**
-- Responsibility/Achievement 1
-- Responsibility/Achievement 2
+### Colby College Department of Computer Science (Sept 2023 - Present)
+**Teaching Assistant**
+- Assist professors with course instruction for Data Structures and Algorithms
+- Hold weekly office hours to provide one-on-one student support
+- Grade assignments and provide detailed feedback to improve student understanding
 
-### Company Name (Year - Year)
-**Position Title**
-- Responsibility/Achievement 1
-- Responsibility/Achievement 2
+## Languages
 
-## Contact Information
+- English (Native)
+- Tamil (Proficient)
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/nssent25)
+## Interests
+
+- Open-source software development
+- Astrophotography
+- Playing chess
+- Hiking and outdoor exploration

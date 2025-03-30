@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | escape }} - Nithun Selva{% else %}Nithun Selva{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   {% seo title=false %}
@@ -11,14 +11,14 @@
 <body>
   <header class="site-header">
     <div class="wrapper">
-      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <a class="site-title" href="{{ "/" | relative_url }}">Nithun Selva</a>
       <nav class="site-nav">
         <div class="trigger">
-          {% for my_page in site.pages %}
-            {% if my_page.title and my_page.title != page.title %}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {% endif %}
-          {% endfor %}
+          <a class="page-link" href="/about/">About</a>
+          <a class="page-link" href="/projects/">Projects</a>
+          <a class="page-link" href="/skills/">Skills</a>
+          <a class="page-link" href="/research/">Research</a>
+          <a class="page-link" href="/contact/">Contact</a>
         </div>
       </nav>
     </div>
@@ -34,7 +34,12 @@
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col">
-          <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+          <p>&copy; {{ site.time | date: '%Y' }} Nithun Selva. All rights reserved.</p>
+          <p>
+            <a href="mailto:nithun.selva@colby.edu">Email</a> | 
+            <a href="http://linkedin.com/in/nithunselva">LinkedIn</a> | 
+            <a href="http://github.com/nssent25">GitHub</a>
+          </p>
         </div>
       </div>
     </div>

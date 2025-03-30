@@ -8,36 +8,48 @@ permalink: /projects/
 
 Here are some of the key projects I've worked on:
 
-## Project Name 1
+## Pi-LLM
 
 ![Project Image](https://via.placeholder.com/800x400)
 
-**Description:** Brief description of the project, its goals, and your role.
+**Description:** Developed a lightweight large language model implementation optimized for deployment on Raspberry Pi devices. This project makes advanced AI capabilities accessible on resource-constrained edge devices.
 
-**Technologies used:** List of technologies/frameworks/languages
+**Technologies used:** Python, PyTorch, TensorFlow Lite, Raspberry Pi
 
-**Link:** [View Project](https://example.com)
+**Link:** [View Project](https://github.com/nssent25/Pi-LLM)
 
 ---
 
-## Project Name 2
+## FITSOpen
 
 ![Project Image](https://via.placeholder.com/800x400)
 
-**Description:** Brief description of the project, its goals, and your role.
+**Description:** Created an open-source tool for astronomical data analysis, specifically for handling FITS (Flexible Image Transport System) files. The tool enables efficient processing and visualization of astronomical imagery.
 
-**Technologies used:** List of technologies/frameworks/languages
+**Technologies used:** Python, NumPy, Astropy, Matplotlib
 
-**Link:** [View Project](https://example.com)
+**Link:** [View Project](https://github.com/nssent25/FITSOpen)
 
 ---
 
-## Project Name 3
+## Astronomical Data Analysis Pipeline
 
 ![Project Image](https://via.placeholder.com/800x400)
 
-**Description:** Brief description of the project, its goals, and your role.
+**Description:** Built an automated pipeline for processing and analyzing large datasets from space telescopes. The system includes modules for data cleaning, artifact removal, and feature detection.
 
-**Technologies used:** List of technologies/frameworks/languages
+**Technologies used:** Python, SQL, AWS, Machine Learning
 
-**Link:** [View Project](https://example.com)
+**Link:** [Project Documentation](#)
+
+---
+
+## Course Registration System
+
+![Project Image](https://via.placeholder.com/800x400)
+
+**Description:** Designed and implemented a full-stack web application for university course registration. Features include user authentication, course search, registration workflows, and administrative dashboard.
+
+**Technologies used:** JavaScript, React, Node.js, MongoDB
+
+**Link:** [Repository](#)
