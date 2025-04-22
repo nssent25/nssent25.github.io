@@ -14,7 +14,7 @@ Here are some of the key projects I've worked on:
 
 **Description:** Developed a lightweight large language model implementation optimized for deployment on Raspberry Pi devices. This project makes advanced AI capabilities accessible on resource-constrained edge devices.
 
-**Technologies used:** Python, PyTorch, TensorFlow Lite, Raspberry Pi
+**Technologies used:** Python, PyTorch, Raspberry Pi
 
 **Link:** [View Project](https://github.com/nssent25/Pi-LLM)
 
@@ -42,14 +42,3 @@ Here are some of the key projects I've worked on:
 
 **Link:** [Project Documentation](#)
 
----
-
-## Course Registration System
-
-![Project Image](https://via.placeholder.com/800x400)
-
-**Description:** Designed and implemented a full-stack web application for university course registration. Features include user authentication, course search, registration workflows, and administrative dashboard.
-
-**Technologies used:** JavaScript, React, Node.js, MongoDB
-
-**Link:** [Repository](#)

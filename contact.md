@@ -15,7 +15,7 @@ I'm always open to discussing new projects, research collaborations, or career o
 - **LinkedIn:** [linkedin.com/in/nithunselva](http://linkedin.com/in/nithunselva)
 - **GitHub:** [github.com/nssent25](http://github.com/nssent25)
 
-## Send Me a Message
+<!-- ## Send Me a Message
 
 <form action="https://formspree.io/f/your-formspree-id" method="POST">
   <div class="form-group">
@@ -39,4 +39,4 @@ I'm always open to discussing new projects, research collaborations, or career o
   </div>
   
   <button type="submit" class="btn">Send Message</button>
-</form>
+</form> -->

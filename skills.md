@@ -49,14 +49,6 @@ permalink: /skills/
     <p>Database management and complex queries</p>
   </div>
   
-  <div class="skill-item">
-    <h3>R</h3>
-    <div class="skill-bar">
-      <div class="skill-level" style="width: 65%"></div>
-    </div>
-    <p>Statistical analysis and data visualization</p>
-  </div>
-</div>
 
 ## Tools & Frameworks
 
