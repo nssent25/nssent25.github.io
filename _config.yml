@@ -1,3 +1,4 @@
+# filepath: _config.yml
 title: Nithun Selva
 description: Personal Portfolio and Resume
 baseurl: ""
@@ -5,7 +6,7 @@ url: "https://nssent25.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal # Changed from minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
