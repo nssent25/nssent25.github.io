@@ -6,7 +6,7 @@ url: "https://nssent25.github.io"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal # Changed from minima
+theme: jekyll-theme-cayman # Changed from minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

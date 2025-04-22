@@ -2,7 +2,7 @@
 source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.3" # Or your specific Jekyll version
-gem "jekyll-theme-minimal" # Add the theme gem
+gem "jekyll-theme-cayman" # Add the theme gem
 
 # If you use GitHub Pages, remove the default group and specify plugins directly
 # gem 'github-pages', group: :jekyll_plugins
